@@ -11,3 +11,5 @@ A few questions for consideration:
 - *To what extent do the processes of perception and documentation affect my identity?*
 
 The resulting product is a website that takes in webcam video as input, and a composite image made up of photos of myself; a portrait of the user, composed by my portraits. Take a look [here](http://anthony0nguyen.github.io/musi379-final-project/).
+
+![Screenshot of the website](sample_screenshot.png 'Screenshot of the website')
