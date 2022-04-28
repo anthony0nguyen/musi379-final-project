@@ -10,7 +10,8 @@ im_files = [f for f in files if f.endswith('.png')]
 csv_header = ['id', 'filename', 'brightness']
 image_dict = []
 
-# clear output folder
+# make/clear output folder
+os.makedirs('output_images', exist_ok=True)
 for file in os.scandir('output_images'): 
     os.remove(file.path)
 
